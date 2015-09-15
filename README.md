@@ -1,0 +1,2 @@
+# EditInListView
+测试ListView中EditText被软键盘挡住问题
